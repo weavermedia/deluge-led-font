@@ -1,10 +1,12 @@
 # Deluge LED Font
 
-### A True Type font of the Deluge special-character alphabet.
+### A desktop font of the Deluge special-character alphabet.
 
 The Synthstrom Deluge has a 4-digit LED display. It uses a special alphanumeric character set that can be displayed on the 7-segment display.
 
 This True Type font allows you to use those special characters in Deluge cheatsheets, tutorials, overlays, manuals, videos, etc.
+
+True Type (`deluge-led.ttf`) and Open Type (`deluge-led.otf`) versions are provided.
 
 ![](preview.png)
 
@@ -16,8 +18,9 @@ The uppercase and lowercase characters are the same. The punctuation set is limi
 
 1. [Download this repository as a zip file](https://github.com/weavermedia/deluge-led-font/archive/refs/heads/main.zip)
 2. Unzip the contents
-3. macOS: Double-click `deluge-led.ttf` to open Font Book then click Install.
-4. Win10: Right-click `deluge-led.ttf` and choose "Install for all users".
+3. Choose the format to install - True Type (`.ttf`) or Open Type (`.otf`).
+4. macOS: Double-click the desired font file to open Font Book then click Install.
+5. Win10: Right-click the desired font file and choose "Install for all users".
 
 ## License
 
